@@ -5,4 +5,4 @@
 📊Create projects on data analytics <br/>
 ℹ️Learning publicly on [LinkedIn](https://www.linkedin.com/in/vijayrathod100/) <br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrathod11038)](https://github.com/vijayrathod11038/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrathod11038&show_icons=true&theme=radical)
