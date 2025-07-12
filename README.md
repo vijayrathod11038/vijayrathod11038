@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <!--
-**vijayrathod11038/vijayrathod11038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Hi, Vijay Rathod here 
+
+🕵🏻Data Analyst Analysing data with help of Python, SQL, BI etc <br/>
+🎓Studying Data Science And Applications at IIT-Madras 
+
 
 Here are some ideas to get you started:
 
