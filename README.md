@@ -1,20 +1,8 @@
-## Hi there 👋
+### Hi, Vijay Rathod here 
 
-<!--
-###Hi, Vijay Rathod here 
+🕵🏻Data Analyst Analysing data with the help of Python, SQL, BI, etc <br/>
+🎓Studying Data Science and Applications at IIT-Madras <br/>
+📊Create projects on data analytics <br/>
+ℹ️Learning publicly on [LinkedIn](https://www.linkedin.com/in/vijayrathod100/) <br/>
 
-🕵🏻Data Analyst Analysing data with help of Python, SQL, BI etc <br/>
-🎓Studying Data Science And Applications at IIT-Madras 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrathod11038)](https://github.com/vijayrathod11038/github-readme-stats)
